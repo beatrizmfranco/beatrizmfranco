@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋 Seja bem vindo ao meu portfólio (em construção). 
+Me chamo Beatriz Franco 😄 <br /> 
+:computer: Atualmente trabalho no Banco BV como Analista Júnior em Ciência de Dados <br /> 
+:mortar_board: E estou cursando licenciatura em física na Universidade de São Paulo. 
 
 <!--
 **beatrizmfranco/beatrizmfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
