@@ -1,6 +1,6 @@
 ### Olá 👋 Seja bem vindo ao meu portfólio (em construção). 
 Me chamo Beatriz Franco 😄 <br /> 
-:computer: Atualmente trabalho no Banco BV como Analista Júnior em Ciência de Dados <br /> 
+:computer: Atualmente trabalho no Banco BV como Analista Pleno em Ciência de Dados <br /> 
 :mortar_board: E estou cursando licenciatura em física na Universidade de São Paulo. 
 
 
